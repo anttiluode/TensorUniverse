@@ -1,4 +1,4 @@
-# Physical Tensor Universe Simulation
+# Tensor Universe Simulation
 
 A Python-based simulation modeling a universe composed of interacting tensor singularities. Visualizes matter distribution, density slices, and distributions of field strengths and masses using Gradio for an interactive interface.
 
