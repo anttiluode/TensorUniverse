@@ -49,6 +49,26 @@ Example
 
 ![Universe](universe.png)
 
+# What is happening (per claude)
+
+Let me break down what's happening:
+
+Tensor Interactions:
+
+
+Each singularity has both physical properties (position, mass) AND a tensor field
+The tensors modulate each other through field_interaction = torch.tanh(s1.field * s2.field)
+The physical forces are modified by these tensor interactions
+The space between singularities is influenced by their fields
+
+
+What We're Seeing:
+
+
+The heatmaps show where tensor field interactions create "matter-like" structures
+The 3D plots show how these fields cluster and organize
+The histograms show emergent distributions that look surprisingly natural
+
 # License
 
 This project is licensed under the MIT License.
